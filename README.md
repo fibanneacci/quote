@@ -6,4 +6,4 @@ Here it is in action:
 
 ![Console with quote input and quotified output](/screenshot.png?raw=true "Console with quote input and quotified output")
 
-(Source of example quotes: [Optimize What?](https://communemag.com/optimize-what/) by Jimmy Wu for *Commune Magazine*)
+(Source of example quotes: "[Optimize What?](https://communemag.com/optimize-what/)" by Jimmy Wu for *Commune Magazine*)
